@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+/*.cap-izq {
+    float: left;
+    display: inline-block;
+}
+*/
+*{
+	margin: 0;
+	padding: 0; 
+}
+h1 {
+  background: #CC7722;
+  padding: 10px;
+  border-radius: 25px;
+  display: inline-block;
+}
+img {
+  border: 8px groove sandybrown;
+	 margin: 30px 0;
+}
+a{    margin: 10px 0;
+    font-size: 1.2em; color:#000000;text-decoration: none; padding:5px ;}
+a:hover{
+	color: white;
+	text-decoration:overline;
+	background:#F5BD89;
+	border-radius: 10px;
+	
+}
+ 
+ 
